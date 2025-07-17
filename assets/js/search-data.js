@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/call-for-papers/";
           },
+        },{id: "nav-accepted-papers",
+          title: "Accepted Papers",
+          description: "Papers are sorted by presentation type and title.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/accepted-papers/";
+          },
         },{id: "nav-speakers",
           title: "Speakers",
           description: "The workshop features a diverse group of invited speakers who will deliver keynote talks.",
