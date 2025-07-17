@@ -44,8 +44,8 @@ We thank our sponsors:
 
 <img src="/assets/img/prior_labs_logo_white.jpeg" alt="PriorLabsLogo" width="200" height="200"/>
 
-* PriorLabs is building the next generation of foundation models for structured data. We develop and deploy state-of-the-art tabular foundation models—like TabPFN—to unlock new capabilities in scientific discovery, finance, healthcare, analytics, and beyond. Our current model, TabPFN v2, was published in Nature in January 2025 and sets a new benchmark for tabular data. Our mission is to revolutionize data science and advance the frontier of machine learning for real-world decision-making across industries. 
-* Sponsored FMSD Event by PriorLabs: https://lu.ma/2q1wm635 
+* Prior Labs is building the next generation of foundation models for structured data. We develop and deploy state-of-the-art tabular foundation models—like TabPFN—to unlock new capabilities in scientific discovery, finance, healthcare, analytics, and beyond. Our current model, TabPFN v2, was published in Nature in January 2025 and sets a new benchmark for tabular data. Our mission is to revolutionize data science and advance the frontier of machine learning for real-world decision-making across industries. 
+* Join us for some drinks at Prior Labs’ Structured Data social after the workshop: https://lu.ma/2q1wm635 
 
 
 ### Schedule
