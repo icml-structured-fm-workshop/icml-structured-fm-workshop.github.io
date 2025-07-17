@@ -193,7 +193,7 @@ exclude:
   - _pages/projects.md
   - _pages/teaching.md
   - _pages/publications.md
-  - _pages/accepted.md  # remove after papers have been accepted
+    #  - _pages/accepted.md  # remove after papers have been accepted
   - _posts
   - _news
   - _projects
