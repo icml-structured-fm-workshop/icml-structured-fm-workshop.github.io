@@ -20,7 +20,13 @@ We welcome researchers working on foundation models for structured data to submi
 
 ## Submission Instructions
 
-Details coming soon.
+Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **OpenReview** (link TBD) in a single `.pdf` file using the [ICML 2026 LaTeX style template](https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip). The impact statement is not required for the submission to the workshop.
+
+The review process is _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
+
+All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks.
+
+**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference, it should be reasonably extended in order to be accepted at this workshop. Parallel submission of papers under review at ICML 2026 is allowed.
 
 ## Scope and Topics
 
