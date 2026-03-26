@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-speakers",
           title: "Speakers",
-          description: "The workshop features a diverse group of invited speakers who will deliver keynote talks.",
+          description: "The workshop features invited keynote and industry spotlight speakers.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/speakers/";
@@ -37,7 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organizers/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
+        },{id: "dropdown-icml-2025",
+              title: "ICML 2025",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/2025/";
+              },
+            },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
         title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
       
