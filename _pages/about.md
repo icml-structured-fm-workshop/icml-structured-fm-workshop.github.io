@@ -42,7 +42,7 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 **July 10–11, 2026, Coex Convention & Exhibition Center, Seoul, South Korea**
 
-The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight paper talks, and two poster sessions with contributed papers. All times are in Korea Standard Time (GMT+9), the local time in Seoul. You can find the tentative workshop schedule below:
+The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight paper talks, and two poster sessions with contributed papers. You can find the tentative workshop schedule below:
 
 | Time | Session |
 |------|---------|
@@ -58,6 +58,8 @@ The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight
 | 15:15 – 15:45 | <span style="color:#4A90E2">Invited Talk 3</span> |
 | 15:45 – 16:45 | <span style="color:#A8CF79">Poster Session</span> |
 | 16:45 – 17:00 | <span style="color:#DDDDDD">Closing Remarks</span> |
+
+<br>
 
 ### Contact
 
