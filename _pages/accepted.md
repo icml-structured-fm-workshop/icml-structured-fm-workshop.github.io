@@ -9,8 +9,4 @@ nav_order: 2
 
 ## Accepted Papers
 
-<div class="publications">
-
-{% bibliography %}
-
-</div>
+To be announced.

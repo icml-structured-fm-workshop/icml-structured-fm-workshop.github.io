@@ -1,46 +1,97 @@
 ---
 layout: profiles
 permalink: /speakers/
-title: Speakers 
-description: The workshop features a diverse group of invited speakers who will deliver keynote talks.
+title: Speakers
+description: The workshop features invited keynote and industry spotlight speakers.
 nav: true
 nav_order: 6
 
-profiles:
-  - align: right
-    image: speakers/frank.jpg
-    content: speakers/frank.md
-    image_circular: false # crops the image to make it circular
+profiles:  
+  - group: Keynote Speakers
+    align: right
+    image: speakers/placeholder.svg
+    content: speakers/tomas.md
+    image_circular: false
+    more_info: >
+      
+  - group: Keynote Speakers
+    align: left
+    image: speakers/placeholder.svg
+    content: speakers/david.md
+    image_circular: false
     more_info: >
 
-  - align: left
-    image: speakers/yan.jpeg
-    content: speakers/yan.md
-    image_circular: false # crops the image to make it circular
+  - group: Keynote Speakers
+    align: right
+    image: speakers/placeholder.svg
+    content: speakers/katharina.md
+    image_circular: false
     more_info: >
 
-  - align: right
-    image: speakers/andrew.png
-    content: speakers/andrew.md
-    image_circular: false # crops the image to make it circular
+
+
+  - group: Industry Spotlight
+    align: right
+    image: speakers/placeholder.svg
+    content: speakers/noah.md
+    image_circular: false
     more_info: >
 
-  - align: left
-    image: speakers/mihaela-2023-1.webp
-    content: speakers/mihaela.md
-    image_circular: false # crops the image to make it circular
+  - group: Industry Spotlight
+    align: left
+    image: speakers/placeholder.svg
+    content: speakers/oleksandr.md
+    image_circular: false
     more_info: >
 
-  - align: right
-    image: speakers/josh.png
-    content: speakers/josh.md
-    image_circular: false # crops the image to make it circular
+  - group: Industry Spotlight
+    align: right
+    image: speakers/placeholder.svg
+    content: speakers/sam.md
+    image_circular: false
     more_info: >
 
-  - align: left
-    image: speakers/hao.jpeg
-    content: speakers/hao.md
-    image_circular: false # crops the image to make it circular
+  - group: Industry Spotlight
+    align: left
+    image: speakers/placeholder.svg
+    content: speakers/yury.md
+    image_circular: false
+    more_info: >
+
+  - group: Industry Spotlight
+    align: right
+    image: speakers/placeholder.svg
+    content: speakers/marta.md
+    image_circular: false
+    more_info: >
+
+  - group: Industry Spotlight
+    align: left
+    image: speakers/placeholder.svg
+    content: speakers/xingxuan.md
+    image_circular: false
+    more_info: >
+
+  - group: Industry Spotlight
+    align: right
+    image: speakers/placeholder.svg
+    content: speakers/alex.md
+    image_circular: false
+    more_info: >
+
+  - group: Industry Spotlight
+    align: left
+    image: speakers/placeholder.svg
+    content: speakers/azul_renee.md
+    image_circular: false
+    more_info: >
+
+  - group: Industry Spotlight
+    align: right
+    image: speakers/placeholder.svg
+    content: speakers/max_cristian.md
+    image_circular: false
     more_info: >
 
 ---
+
