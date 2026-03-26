@@ -12,7 +12,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-The second [ICML](https://icml.cc/) workshop on **Foundation Models for Structured Data (FMSD)** will be held at the [Coex Convention & Exhibition Center](https://www.coexcenter.com/) in **Seoul, South Korea**, on **July 10–11, 2026**.
+The second [ICML](https://icml.cc/) workshop on **Foundation Models for Structured Data (FMSD)** will be held at the [Coex Convention & Exhibition Center](https://www.coexcenter.com/) in **Seoul, South Korea**, on **July 10–11, 2026**. The exact date and location will be updated once available. We are looking forward to welcoming you in Seoul!
 
 See the [first edition (ICML 2025)](/2025/) for last year's workshop.
 
