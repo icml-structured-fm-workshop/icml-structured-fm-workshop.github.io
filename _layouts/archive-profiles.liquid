@@ -1,15 +1,10 @@
 ---
-layout: page
+layout: archive-page
 ---
 <div class="post">
   <article>
     {% if page.profiles %}
-      {% assign current_group = nil %}
       {% for profile in page.profiles %}
-        {% if profile.group and profile.group != current_group %}
-          {% assign current_group = profile.group %}
-          <h2 class="profiles-group-title" style="margin-top: 2em; margin-bottom: 0.5em;">{{ profile.group }}</h2>
-        {% endif %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
