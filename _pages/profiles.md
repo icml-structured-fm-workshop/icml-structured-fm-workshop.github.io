@@ -56,13 +56,12 @@ profiles:
       <p><a href="https://maxschambach.github.io/">website</a>, <a href="https://scholar.google.com/citations?hl=en&user=mEhY3A4AAAAJ&view_op=list_works&sortby=pubdate">google scholar</a></p>
 
 
-
   - align: right
-    image: organizers/placeholder.svg
+    image: organizers/Arjun_Ashok_.jpeg
     content: organizers/arjun.md
     image_circular: false
     more_info: >
-      <p>University of Montreal / Mila</p><br>
+      <p>Mila-Quebec AI Institute / University of Montreal</p><br>
 
   - align: left
     image: organizers/placeholder.svg
