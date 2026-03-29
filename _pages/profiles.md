@@ -57,7 +57,7 @@ profiles:
 
 
   - align: right
-    image: organizers/arjun.jpg
+    image: organizers/Arjun_Ashok_.jpeg
     content: organizers/arjun.md
     image_circular: false
     more_info: >
