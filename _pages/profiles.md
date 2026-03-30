@@ -64,7 +64,7 @@ profiles:
       <p>Mila-Quebec AI Institute / University of Montreal</p><br>
 
   - align: left
-    image: organizers/placeholder.svg
+    image: organizers/rajat.png
     content: organizers/rajat.md
     image_circular: false
     more_info: >
