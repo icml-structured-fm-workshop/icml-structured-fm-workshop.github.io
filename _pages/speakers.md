@@ -32,7 +32,7 @@ profiles:
 
   - group: Industry Spotlight
     align: right
-    image: prior_labs_logo.svg
+    image: speakers/2026/noah.png
     content: speakers/noah.md
     image_circular: false
     more_info: >
@@ -53,7 +53,7 @@ profiles:
 
   - group: Industry Spotlight
     align: left
-    image: speakers/2026/yandex_logo.svg
+    image: speakers/2026/yury.jpeg
     content: speakers/yury.md
     image_circular: false
     more_info: >
