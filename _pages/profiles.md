@@ -12,7 +12,7 @@ profiles:
     content: organizers/nick.md
     image_circular: false
     more_info: >
-      <p>Amazon Web Services</p><br>
+      <p>Prior Labs</p><br>
       <p><a href="https://www.linkedin.com/in/nickericksoncs/">website</a>, <a href="https://scholar.google.com/citations?user=I0nj-TcAAAAJ&hl=en">google scholar</a></p>
 
   - align: left
