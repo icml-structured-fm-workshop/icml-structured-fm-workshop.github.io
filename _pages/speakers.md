@@ -6,24 +6,24 @@ description: The workshop features invited keynote and industry spotlight speake
 nav: true
 nav_order: 6
 
-profiles:  
+profiles:
+  - group: Keynote Speakers
+    align: left
+    image: speakers/2026/david.jpg
+    content: speakers/david.md
+    image_circular: false
+    more_info: >  
+
   - group: Keynote Speakers
     align: right
     image: speakers/placeholder.svg
     content: speakers/tomas.md
     image_circular: false
     more_info: >
-      
-  - group: Keynote Speakers
-    align: left
-    image: speakers/placeholder.svg
-    content: speakers/david.md
-    image_circular: false
-    more_info: >
 
   - group: Keynote Speakers
     align: right
-    image: speakers/placeholder.svg
+    image: speakers/2026/katharina.svg
     content: speakers/katharina.md
     image_circular: false
     more_info: >
