@@ -32,28 +32,28 @@ profiles:
 
   - group: Industry Spotlight
     align: right
-    image: speakers/placeholder.svg
+    image: prior_labs_logo.svg
     content: speakers/noah.md
     image_circular: false
     more_info: >
 
   - group: Industry Spotlight
     align: left
-    image: speakers/placeholder.svg
+    image: speakers/2026/oleksandr.webp
     content: speakers/oleksandr.md
     image_circular: false
     more_info: >
 
   - group: Industry Spotlight
     align: right
-    image: speakers/placeholder.svg
+    image: speakers/2026/sam.jpeg
     content: speakers/sam.md
     image_circular: false
     more_info: >
 
   - group: Industry Spotlight
     align: left
-    image: speakers/placeholder.svg
+    image: speakers/2026/yandex_logo.svg
     content: speakers/yury.md
     image_circular: false
     more_info: >
