@@ -23,7 +23,7 @@ profiles:
 
   - group: Keynote Speakers
     align: right
-    image: speakers/2026/katharina.svg
+    image: speakers/2026/katharina.png
     content: speakers/katharina.md
     image_circular: false
     more_info: >
