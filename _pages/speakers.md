@@ -8,14 +8,14 @@ nav_order: 6
 
 profiles:
   - group: Keynote Speakers
-    align: left
+    align: right
     image: speakers/2026/david.jpg
     content: speakers/david.md
     image_circular: false
     more_info: >  
 
   - group: Keynote Speakers
-    align: right
+    align: left
     image: speakers/placeholder.svg
     content: speakers/tomas.md
     image_circular: false
