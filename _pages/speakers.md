@@ -81,7 +81,7 @@ profiles:
 
   - group: Industry Spotlight
     align: left
-    image: speakers/placeholder.svg
+    image: speakers/2026/azul_and_renee.jpeg
     content: speakers/azul_renee.md
     image_circular: false
     more_info: >
