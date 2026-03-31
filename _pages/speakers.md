@@ -88,7 +88,7 @@ profiles:
 
   - group: Industry Spotlight
     align: right
-    image: speakers/placeholder.svg
+    image: speakers/2026/max_and_cristian.jpeg
     content: speakers/max_cristian.md
     image_circular: false
     more_info: >
