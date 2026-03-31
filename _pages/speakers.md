@@ -16,8 +16,8 @@ profiles:
 
   - group: Keynote Speakers
     align: left
-    image: speakers/placeholder.svg
-    content: speakers/tomas.md
+    image: speakers/abhimanyu.jpeg
+    content: speakers/abhimanyu.md
     image_circular: false
     more_info: >
 
@@ -60,7 +60,7 @@ profiles:
 
   - group: Industry Spotlight
     align: right
-    image: speakers/placeholder.svg
+    image: speakers/2026/marta.jpg
     content: speakers/marta.md
     image_circular: false
     more_info: >
