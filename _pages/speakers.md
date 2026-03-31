@@ -16,7 +16,7 @@ profiles:
 
   - group: Keynote Speakers
     align: left
-    image: speakers/abhimanyu.jpeg
+    image: speakers/2026/abhimanyu.jpeg
     content: speakers/abhimanyu.md
     image_circular: false
     more_info: >
