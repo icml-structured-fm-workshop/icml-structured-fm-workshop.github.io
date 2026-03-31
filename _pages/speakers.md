@@ -67,14 +67,14 @@ profiles:
 
   - group: Industry Spotlight
     align: left
-    image: speakers/placeholder.svg
+    image: speakers/2026/xingxuan.jpeg
     content: speakers/xingxuan.md
-    image_circular: false
+    image_circular: true
     more_info: >
 
   - group: Industry Spotlight
     align: right
-    image: speakers/placeholder.svg
+    image: speakers/2026/alex.jpeg
     content: speakers/alex.md
     image_circular: false
     more_info: >
