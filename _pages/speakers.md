@@ -69,7 +69,7 @@ profiles:
     align: left
     image: speakers/2026/xingxuan.jpeg
     content: speakers/xingxuan.md
-    image_circular: true
+    image_circular: false
     more_info: >
 
   - group: Industry Spotlights
