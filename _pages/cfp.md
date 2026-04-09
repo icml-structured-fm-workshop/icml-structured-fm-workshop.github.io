@@ -7,12 +7,12 @@ nav: true
 nav_order: 1
 ---
 
-We welcome researchers working on foundation models for structured data to submit their latest original research work to the ICML 2026 workshop on **Foundation Models for Structured Data**.
+We welcome researchers working on foundation models for structured data to submit their latest original research work to the [ICML 2026](https://icml.cc/) workshop on **Foundation Models for Structured Data**.
 
 ## Key Information
 
-- Submission link: TBD
-- Submission deadline: TBD (~May 01, 2026 (11:59 pm AoE))
+- Submission link: **[OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/FMSD)**
+- Submission deadline: May 01, 2026 (11:59 pm AoE)
 - Acceptance notification: May 15, 2026 (anytime before 11:59 pm AoE)
 - Camera ready deadline: TBD
 - Page Limit: short papers with up to 4 pages; unlimited references and appendices
@@ -20,7 +20,7 @@ We welcome researchers working on foundation models for structured data to submi
 
 ## Submission Instructions
 
-Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **OpenReview** (link TBD) in a single `.pdf` file using the [ICML 2026 LaTeX style template](https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip). The impact statement is not required for the submission to the workshop.
+Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **[OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/FMSD)** in a single `.pdf` file using the [ICML 2026 LaTeX style template](https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip). The impact statement is not required for the submission to the workshop.
 
 The review process is _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
 
