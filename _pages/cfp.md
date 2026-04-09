@@ -26,11 +26,16 @@ The review process is _double-blind_, so please ensure that your submission is p
 
 All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks.
 
-**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference, it should be reasonably extended in order to be accepted at this workshop. Parallel submission of papers under review at ICML 2026 is allowed.
+**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. Submission of papers accepted at ICML 2026's main conference are not allowed. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference, it should be reasonably extended in order to be accepted at this workshop.
 
 ## Scope and Topics
 
 We focus on foundation-model approaches for inherently structured objectives on tabular and time-series data, such as classification, regression, forecasting, and structured generation. LLM/agent-based submissions are in scope only if they evaluate on predictive tabular/time-series objectives with strong classical baselines, and report cost/latency and numerical reliability checks. Out of scope are contributions about general-purpose foundation model architectures without a clear structured-data focus, and NLP-centric tasks over tables (e.g., table question answering / semantic parsing).
+
+To help guide submissions, here are a few clearly relevant prior works that align with the goals of this workshop:
+
+- Time series: Chronos, TimesFM, Moirai, Moment, TiRex, TabPFN-TS, GIFT-Eval
+- Tabular: TabPFN, TabICL, TabDPT, Mitra, CARTE, TabSTAR, ConTextTab, TabArena
 
 We invite submissions related to the following topics:
 
