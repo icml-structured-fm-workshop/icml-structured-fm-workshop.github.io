@@ -60,8 +60,8 @@ profiles:
 
   - group: Industry Spotlights
     align: right
-    image: speakers/2026/marta.jpg
-    content: speakers/marta.md
+    image: speakers/2026/kevin.jpg
+    content: speakers/kevin.md
     image_circular: false
     more_info: >
 
