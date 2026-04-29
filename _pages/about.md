@@ -16,6 +16,11 @@ The second [ICML](https://icml.cc/) workshop on **Foundation Models for Structur
 
 See the [first edition (ICML 2025)](/2025/) for last year's workshop.
 
+### Deadline Extension
+
+We have extended the submission deadline to **May 08, 2026 (11:59 pm AoE)** to better support would-be submitters who are finalizing NeurIPS submissions and would like to submit to the workshop afterward.
+Refer to the [Call for Papers](/call-for-papers/) for details.
+
 ### Introduction
 
 Structured data (tabular and time-series) underpins high-impact applications across finance, healthcare, enterprise decision-making, and climate modeling. Over the past two years, predictive foundation models tailored to structured data have emerged, enabling in-context learning and transfer across heterogeneous datasets and schemas, challenging the traditional "train per dataset" paradigm. Tabular and time-series foundation models share methodological similarities: pretraining on heterogeneous datasets, in-context learning, and transfer under schema and distribution shift. These similarities create natural synergies across the respective communities.

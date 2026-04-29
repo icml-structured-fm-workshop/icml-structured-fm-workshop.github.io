@@ -12,8 +12,8 @@ We welcome researchers working on foundation models for structured data to submi
 ## Key Information
 
 - Submission link: **[OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/FMSD)**
-- Submission deadline: May 01, 2026 (11:59 pm AoE)
-- Acceptance notification: May 15, 2026 (anytime before 11:59 pm AoE)
+- Submission deadline: ~~May 01, 2026~~ May 08, 2026 (11:59 pm AoE)
+- Acceptance notification: ~~May 15, 2026~~ May 22, 2026 (anytime before 11:59 pm AoE)
 - Camera ready deadline: TBD
 - Page Limit: short papers with up to 4 pages; unlimited references and appendices
 - Misc: double-blind, non-archival, poster presentations for accepted papers, orals for top rated papers
