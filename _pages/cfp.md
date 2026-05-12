@@ -47,6 +47,40 @@ We invite submissions related to the following topics:
 
 We also explicitly encourage submissions that study scaling across datasets, model size, and compute; and multimodality for structured foundation models (e.g., image-tabular modeling in medical diagnosis; text-time-series modeling for ECG interpretation).
 
+## Reviewer Guidelines
+
+Reviewers should follow these guidelines when evaluating a paper. These guidelines are based on the [reviewer guidelines for TMLR](https://jmlr.org/tmlr/acceptance-criteria.html).
+
+The acceptance decision for a submission is based on the answers to the following questions:
+
+**Are the claims made in the submission supported by accurate, convincing and clear evidence?**
+
+This is the most important criterion. This implies assessing the technical soundness as well as the clarity of the narrative and arguments presented. Papers with large gaps between claims and evidence must be rejected.
+
+- Papers presenting a new method/model with a reasonable proof of concept should be seen as satisfying this criterion.
+- Papers solely presenting empirical analysis should present rigorous comparisons before making general claims.
+
+**Would at least some individuals in this workshop's audience be interested in knowing the findings of this paper?**
+
+This is arguably the most subjective criterion, and therefore needs to be treated carefully. Generally, a reviewer that is unsure as to whether a submission satisfies this criterion should assume that it does. Crucially, it should not be used as a reason to reject work that isn't considered "significant" or "impactful" because it isn't achieving a new state-of-the-art on some benchmark. Nor should it form the basis for rejecting work on a method considered not "novel enough", as novelty of the studied method is not a necessary criteria for acceptance. We explicitly avoid these terms ("significant", "impactful", "novel"), and focus instead on the notion of "interest". If the authors make it clear that there is something to be learned by some researchers in their area from their work, then the criterion of interest is considered satisfied.
+
+Papers should be accepted if they meet these criteria, even if the contribution or significance of the work is modest.
+
+Papers that should not be accepted include
+
+- papers that make bold statements unsupported by empirical or rigorous evidence,
+- papers that aren't clearly written,
+- papers that incorrectly claim novelty over existing published work, and
+- papers that merely re-implement an idea that has already been reproduced before.
+
+### Review Format
+
+A review should have the following content.
+
+**Summary of contributions**: Brief description, in the reviewer's words, of the contributions and new knowledge presented by the submission.
+**Strengths and weaknesses**: List of the strong aspects of the submission as well as weaker elements (if any) that you think require attention from the authors.
+**Suggestions**: Any suggestions to improve the paper for future versions.
+
 ## Contact
 
 If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact the organizers at [icml-structured-foundation-workshop@googlegroups.com](mailto:icml-structured-foundation-workshop@googlegroups.com).
