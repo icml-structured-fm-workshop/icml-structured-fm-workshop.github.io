@@ -67,6 +67,12 @@ The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight
 
 <br>
 
+### Sponsors
+
+We thank our sponsors:
+
+<img src="/assets/img/SAP_logo.png" alt="SAP Logo" width="300"/>
+
 ### Contact
 
 You can reach the organizers of the workshop at <a href="mailto:icml-structured-foundation-workshop@googlegroups.com">icml-structured-foundation-workshop@googlegroups.com</a>.
