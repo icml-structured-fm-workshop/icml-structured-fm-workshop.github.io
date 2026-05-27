@@ -16,11 +16,6 @@ The second [ICML](https://icml.cc/) workshop on **Foundation Models for Structur
 
 See the [first edition (ICML 2025)](/2025/) for last year's workshop.
 
-### Deadline Extension
-
-We have extended the submission deadline to **May 08, 2026 (11:59 pm AoE)** to better support would-be submitters who are finalizing NeurIPS submissions and would like to submit to the workshop afterward.
-Refer to the [Call for Papers](/call-for-papers/) for details.
-
 ### Introduction
 
 Structured data (tabular and time-series) underpins high-impact applications across finance, healthcare, enterprise decision-making, and climate modeling. Over the past two years, predictive foundation models tailored to structured data have emerged, enabling in-context learning and transfer across heterogeneous datasets and schemas, challenging the traditional "train per dataset" paradigm. Tabular and time-series foundation models share methodological similarities: pretraining on heterogeneous datasets, in-context learning, and transfer under schema and distribution shift. These similarities create natural synergies across the respective communities.
@@ -72,6 +67,13 @@ The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight
 We thank our sponsors:
 
 <img src="/assets/img/SAP_logo.png" alt="SAP Logo" width="300"/>
+
+![Layer6Logo](/assets/img/Layer6_Logo.png)
+* TD Bank offers products and services to over 27.9 million customers worldwide. Through our AI research lab - Layer6, we develop and deploy industry-leading AI and machine learning systems to advance the field of artificial intelligence in the financial services industry.
+
+<img src="/assets/img/prior_labs_logo_white.jpeg" alt="PriorLabsLogo" width="200" height="200"/>
+
+* At Prior Labs, we're building Multimodal Tabular Foundation Models (TFMs), starting with TabPFN, that understand tables natively - learning statistical reasoning directly from data.  Our vision: truly agentic AI systems capable of understanding high-level goals, fusing tables, language, and images to reason, integrate domain knowledge, infer causality, and adapt dynamically.
 
 ### Contact
 
