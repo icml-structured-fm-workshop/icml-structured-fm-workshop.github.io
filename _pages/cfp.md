@@ -108,6 +108,11 @@ We do not have a separate virtual session for the workshop.
 
 ---
 
+**Q: Can the author list of an accepted workshop paper be changed after submission?**
+**A:** We do not allow changing the author list post-submission for several reasons such as conflict-of-interest calculations during the review process.
+
+---
+
 **Q: What is the camera ready deadline?**
 **A:**
 The camera ready deadline is June 29, 2026  (11:59 pm AoE).
