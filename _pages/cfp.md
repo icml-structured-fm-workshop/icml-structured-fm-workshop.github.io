@@ -47,6 +47,72 @@ We invite submissions related to the following topics:
 
 We also explicitly encourage submissions that study scaling across datasets, model size, and compute; and multimodality for structured foundation models (e.g., image-tabular modeling in medical diagnosis; text-time-series modeling for ECG interpretation).
 
+## Camera Ready FAQ
+
+**Q: What is the camera ready page limit?**
+**A:** 4 pages with unlimited references and appendices.
+
+---
+
+**Q: What is the required poster format?**
+**A:**
+Must not exceed 36in (H) x 24in (W) or 91cm (H) x 61cm (W)   
+Notice: Workshop posters must be in **portrait format**
+
+Refer to the ICML Conference guidelines: [ICML 2026 Poster Instructions](https://icml.cc/Conferences/2026/PosterInstructions)
+
+---
+
+**Q: How do I update the style file?**
+**A:**
+Modify the `icml2026.sty` file. For example, replace:
+```latex
+% \newcommand{\ICML@appearing}{\textit{Proceedings of the
+% $\mathit{43}^{rd}$ International Conference on Machine Learning},
+% Seoul, South Korea. PMLR 306, 2026.
+% Copyright 2026 by the author(s).}
+```
+with:
+```latex
+\newcommand{\ICML@appearing}{\textit{Proceedings of the
+$\mathit{2}^{nd}$ ICML Workshop on Foundation Models for Structured Data},
+Seoul, South Korea. 2026.
+Copyright 2026 by the author(s).}
+```
+
+---
+
+**Q: How do I submit the camera-ready version? Do I uncomment the camera-ready line in the LaTeX file, download it, and re-upload?**
+**A:** Yes. Follow the template instructions to generate the final version and then re-upload it to the system. Ensure you also follow the above style file edit.
+
+---
+
+**Q: I can't find an upload option or clear instructions on the workshop website. What should I do?**
+**A:** Please follow the general ICML instructions and the LaTeX template comments to prepare your camera-ready version.
+
+---
+
+**Q: Will there be an option for online attendance?**
+**A:** Talks will be livestreamed by ICML. Poster sessions and other in-person events will not be shared online.
+
+---
+
+**Q: None of the authors can attend in-person, can the organizers print our paper's poster and bring it to the workshop for us?**
+**A:** The organizers will not be able to assist in poster printing. We recommend seeing if anyone you know (even outside the author list) is attending in-person and would be able to print/bring the poster to the workshop. If you are unable to find someone to deliver the poster, please email the organizers with your situation.
+
+---
+
+**Q: Can the organizers assist with travel issues / fee waivers?**
+**A:** Unfortunately we are unable to assist with travel issues or waive registration fees.
+
+---
+
+**Q: What is the camera ready deadline?**
+**A:**
+The camera ready deadline is June 29, 2026  (11:59 pm AoE).
+The camera ready deadline is not strict, as the workshop is non-archival. This means there is no enforcement of the deadline, nor any action required by you for the camera-ready, it is merely a best-effort suggestion.
+Workshop papers live in OpenReview, and organizers can re-import any changes up until the conference. The ICML site just links back to OpenReview rather than publishing a final proceedings PDF like it does for main conference papers.
+
 ## Reviewer Guidelines
 
 Reviewers should follow these guidelines when evaluating a paper. These guidelines are based on the [reviewer guidelines for TMLR](https://jmlr.org/tmlr/acceptance-criteria.html).
