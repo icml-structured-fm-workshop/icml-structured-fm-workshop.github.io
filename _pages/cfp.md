@@ -94,6 +94,7 @@ Copyright 2026 by the author(s).}
 
 **Q: Will there be an option for online attendance?**
 **A:** Talks will be livestreamed by ICML. Poster sessions and other in-person events will not be shared online.
+We do not have a separate virtual session for the workshop.
 
 ---
 
