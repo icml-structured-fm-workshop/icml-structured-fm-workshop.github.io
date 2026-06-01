@@ -113,6 +113,11 @@ We do not have a separate virtual session for the workshop.
 
 ---
 
+**Q: Is workshop attendance required for the workshop paper to remain accepted?**
+**A:** While we strongly encourage in-person attendance, it is not required. Workshop papers will remain accepted regardless of whether the authors attend the workshop.
+
+---
+
 **Q: What is the camera ready deadline?**
 **A:**
 The camera ready deadline is June 29, 2026  (11:59 pm AoE).
