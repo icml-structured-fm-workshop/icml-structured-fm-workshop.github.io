@@ -12,3 +12,6 @@ node_modules/
 vendor
 .idea
 submissions.csv
+scripts/check_reviews_results.jsonl
+scripts/check_reviews_plots/
+.venv/
