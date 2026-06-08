@@ -40,7 +40,7 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 ### Schedule
 
-**July 10–11, 2026, Coex Convention & Exhibition Center, Seoul, South Korea**
+**July 11, 2026, 9:00-17:00, Coex Convention & Exhibition Center, Seoul, South Korea**
 
 The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight paper talks, and two poster sessions with contributed papers. You can find the tentative workshop schedule below:
 
