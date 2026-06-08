@@ -11,7 +11,7 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --query "@*[presentation=oral]" %}
+{% bibliography -q @*[presentation=oral] %}
 
 </div>
 
@@ -19,6 +19,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --query "@*[presentation=poster]" %}
+{% bibliography -q @*[presentation=poster] %}
 
 </div>
