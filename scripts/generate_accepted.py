@@ -130,8 +130,13 @@ def bib_escape(value: str) -> str:
     return _BRACE_RE.sub(r"\\\1", value).strip()
 
 
-def render_entry(citekey: str, title: str, authors: list[str], forum_url: str) -> str:
-    """Render a single ``@inproceedings`` entry, matching the 2025 style."""
+def render_entry(citekey: str, title: str, authors: list[str], forum_url: str, presentation: str) -> str:
+    """Render a single ``@inproceedings`` entry, matching the 2025 style.
+
+    ``presentation`` is a non-standard BibTeX field (``oral`` or ``poster``)
+    used by ``_pages/accepted.md`` to split the bibliography into two
+    sections via jekyll-scholar's ``--query "@*[presentation=...]"`` filter.
+    """
     author_field = " and ".join(bib_escape(a) for a in authors)
     return (
         f"@inproceedings{{\n"
@@ -140,7 +145,8 @@ def render_entry(citekey: str, title: str, authors: list[str], forum_url: str) -
         f"author={{{author_field}}},\n"
         f"booktitle={{{BOOKTITLE}}},\n"
         f"year={{{YEAR}}},\n"
-        f"url={{{forum_url.strip()}}}\n"
+        f"url={{{forum_url.strip()}}},\n"
+        f"presentation={{{presentation}}}\n"
         f"}}\n"
     )
 
@@ -227,8 +233,9 @@ def main() -> int:
             continue
 
         citekey = make_citekey(authors[0], title, YEAR, used_keys)
-        entries.append(render_entry(citekey, title, authors, forum_url))
-        print(f"  ✓ {citekey}: {len(authors)} author(s)", file=sys.stderr)
+        presentation = "oral" if row["decision"] == SPOTLIGHT_DECISION else "poster"
+        entries.append(render_entry(citekey, title, authors, forum_url, presentation))
+        print(f"  ✓ {citekey} ({presentation}): {len(authors)} author(s)", file=sys.stderr)
 
     output = render_bib(entries)
     args.out.parent.mkdir(parents=True, exist_ok=True)

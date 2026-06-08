@@ -7,8 +7,18 @@ nav: true
 nav_order: 2
 ---
 
+## Spotlight Orals
+
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query "@*[presentation=oral]" %}
+
+</div>
+
+## Posters
+
+<div class="publications">
+
+{% bibliography --query "@*[presentation=poster]" %}
 
 </div>
