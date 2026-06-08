@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-## Accepted Papers
+<div class="publications">
 
-To be announced.
+{% bibliography %}
+
+</div>
