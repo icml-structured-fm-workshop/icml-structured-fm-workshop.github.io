@@ -7,6 +7,18 @@ nav: true
 nav_order: 2
 ---
 
-## Accepted Papers
+## Spotlight Orals
 
-To be announced.
+<div class="publications">
+
+{% bibliography -q @*[presentation=oral] %}
+
+</div>
+
+## Posters
+
+<div class="publications">
+
+{% bibliography -q @*[presentation=poster] %}
+
+</div>
