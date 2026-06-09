@@ -54,15 +54,6 @@ We also explicitly encourage submissions that study scaling across datasets, mod
 
 ---
 
-**Q: What is the required poster format?**
-**A:**
-Must not exceed 36in (H) x 24in (W) or 91cm (H) x 61cm (W)   
-Notice: Workshop posters must be in **portrait format**
-
-Refer to the ICML Conference guidelines: [ICML 2026 Poster Instructions](https://icml.cc/Conferences/2026/PosterInstructions)
-
----
-
 **Q: How do I update the style file?**
 **A:**
 Modify the `icml2026.sty` file. For example, replace:
@@ -84,6 +75,16 @@ Copyright 2026 by the author(s).}
 
 **Q: How do I submit the camera-ready version? Do I uncomment the camera-ready line in the LaTeX file, download it, and re-upload?**
 **A:** Yes. Follow the template instructions to generate the final version and then re-upload it to the system. Ensure you also follow the above style file edit.
+
+---
+
+**Q: How do I upload my poster online, add a slide deck for orals, or other links to those viewing my paper on ICML.cc?**
+**A:** Authors of a paper will see **[ Event Metadata for Authors (e.g. Poster and Slide Uploads...) ]** on their poster page in ICML.cc (found via https://icml.cc/MyStuff)
+
+We recommend that you upload the following optional metadata at least one week before the conference starts. You can update this content anytime you want:
+
+- Poster Upload: Upload your virtual poster and thumbnail
+- You can also upload a slide deck and more, details here: https://wiki.eventhosts.cc/reference/paper-metadata-from-author
 
 ---
 
@@ -123,6 +124,24 @@ We do not have a separate virtual session for the workshop.
 The camera ready deadline is June 29, 2026  (11:59 pm AoE).
 The camera ready deadline is not strict, as the workshop is non-archival. This means there is no enforcement of the deadline, nor any action required by you for the camera-ready, it is merely a best-effort suggestion.
 Workshop papers live in OpenReview, and organizers can re-import any changes up until the conference. The ICML site just links back to OpenReview rather than publishing a final proceedings PDF like it does for main conference papers.
+
+### Poster FAQ
+
+**Q: Can I print my poster at the conference venue?**
+**A:**
+**The order deadline is June 15th** to use ICML's official poster printing partner The Foster to be able to pick up your poster at the conference venue.
+You can find more information here: https://icml.cc/Conferences/2026/PosterInstructions
+
+---
+
+**Q: What is the required poster format?**
+**A:**
+Must not exceed 36in (H) x 24in (W) or 91cm (H) x 61cm (W)   
+Notice: Workshop posters must be in **portrait format**
+
+Refer to the ICML Conference guidelines: [ICML 2026 Poster Instructions](https://icml.cc/Conferences/2026/PosterInstructions)
+
+---
 
 ## Reviewer Guidelines
 
