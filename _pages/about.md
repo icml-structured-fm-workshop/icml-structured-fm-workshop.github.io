@@ -44,8 +44,8 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight paper talks, and two poster sessions with contributed papers. You can find the tentative workshop schedule below:
 
-| Time | Session |
-|------|---------|
+| Time          | Session |
+|---------------|---------|
 | 09:00 – 09:15 | <span style="color:#DDDDDD">Opening Remarks</span> |
 | 09:15 – 09:45 | <span style="color:#4A90E2">Invited Talk 1</span> |
 | 09:45 – 10:25 | <span style="color:#E67E22">Industry Spotlights (x4)</span> |
@@ -55,9 +55,9 @@ The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight
 | 13:00 – 13:30 | <span style="color:#4A90E2">Invited Talk 2</span> |
 | 13:30 – 14:20 | <span style="color:#E67E22">Industry Spotlights (x5)</span> |
 | 14:20 – 15:00 | <span style="color:#9B59B6">Spotlight Papers (x4)</span> |
-| 15:00 – 16:15 | <span style="color:#A8CF79">Poster Session</span> |
-| 16:15 – 16:45 | <span style="color:#4A90E2">Invited Talk 3</span> |
-| 16:45 – 17:00 | <span style="color:#DDDDDD">Awards & Closing Remarks</span> |
+| 15:00 – 15:30 | <span style="color:#4A90E2">Invited Talk 3</span> |
+| 15:30 – 15:45 | <span style="color:#DDDDDD">Awards & Closing Remarks</span> |
+| 15:45 – 17:00 | <span style="color:#A8CF79">Poster Session</span> |
 
 
 <br>
