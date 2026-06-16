@@ -71,7 +71,7 @@ We thank our sponsors:
 ![Layer6Logo](/assets/img/Layer6_Logo.png)
 * TD Bank offers products and services to over 27.9 million customers worldwide. Through our AI research lab - Layer6, we develop and deploy industry-leading AI and machine learning systems to advance the field of artificial intelligence in the financial services industry.
 
-<img src="/assets/img/PriorLogo.svg" alt="PriorLabsLogo" width="300"/>
+<img src="/assets/img/PriorLogo.png" alt="PriorLabsLogo" width="300"/>
 
 * At Prior Labs, we're building Multimodal Tabular Foundation Models (TFMs), starting with TabPFN, that understand tables natively - learning statistical reasoning directly from data.  Our vision: truly agentic AI systems capable of understanding high-level goals, fusing tables, language, and images to reason, integrate domain knowledge, infer causality, and adapt dynamically.
 
