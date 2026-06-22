@@ -50,14 +50,14 @@ The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight
 | 09:15 – 09:45 | <span style="color:#4A90E2">Invited Talk 1</span> |
 | 09:45 – 10:25 | <span style="color:#E67E22">Industry Spotlights (x4)</span> |
 | 10:25 – 11:05 | <span style="color:#9B59B6">Spotlight Papers (x4)</span> |
-| 11:05 – 12:00 | <span style="color:#A8CF79">Poster Session 1</span> |
+| 11:05 – 12:00 | <span style="color:#A8CF79">[Poster Session 1]({{ '/accepted-papers/#poster-session-1' | relative_url }})</span> |
 | 12:00 – 13:00 | <span style="color:#A01019">Lunch</span> |
 | 13:00 – 13:30 | <span style="color:#4A90E2">Invited Talk 2</span> |
 | 13:30 – 14:20 | <span style="color:#E67E22">Industry Spotlights (x5)</span> |
 | 14:20 – 15:00 | <span style="color:#9B59B6">Spotlight Papers (x4)</span> |
 | 15:00 – 15:30 | <span style="color:#4A90E2">Invited Talk 3</span> |
 | 15:30 – 15:45 | <span style="color:#DDDDDD">Awards & Closing Remarks</span> |
-| 15:45 – 17:00 | <span style="color:#A8CF79">Poster Session 2</span> |
+| 15:45 – 17:00 | <span style="color:#A8CF79">[Poster Session 2]({{ '/accepted-papers/#poster-session-2' | relative_url }})</span> |
 
 
 <br>

@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-# Poster Session 1 (11:05 – 12:00)
+# Poster Session 1 (11:05 – 12:00) {#poster-session-1}
 
 ## Spotlight Orals
 
@@ -25,7 +25,7 @@ nav_order: 2
 
 </div>
 
-# Poster Session 2 (15:45 – 17:00)
+# Poster Session 2 (15:45 – 17:00) {#poster-session-2}
 
 ## Spotlight Orals
 
