@@ -7,11 +7,13 @@ nav: true
 nav_order: 2
 ---
 
+# Poster Session 1 (11:05 – 12:00)
+
 ## Spotlight Orals
 
 <div class="publications">
 
-{% bibliography -q @*[presentation=oral] %}
+{% bibliography -q @*[presentation=oral && session=1] %}
 
 </div>
 
@@ -19,6 +21,24 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography -q @*[presentation=poster] %}
+{% bibliography -q @*[presentation=poster && session=1] %}
+
+</div>
+
+# Poster Session 2 (15:45 – 17:00)
+
+## Spotlight Orals
+
+<div class="publications">
+
+{% bibliography -q @*[presentation=oral && session=2] %}
+
+</div>
+
+## Posters
+
+<div class="publications">
+
+{% bibliography -q @*[presentation=poster && session=2] %}
 
 </div>

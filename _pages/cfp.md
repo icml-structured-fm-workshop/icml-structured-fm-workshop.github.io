@@ -143,6 +143,17 @@ Refer to the ICML Conference guidelines: [ICML 2026 Poster Instructions](https:/
 
 ---
 
+**Q: When is my paper's poster session?**
+**A:**
+There are two poster sessions: **Poster Session 1 (11:05 – 12:00)** and **Poster Session 2 (15:45 – 17:00)**. To find which session your paper is assigned to, see the [Accepted Papers]({{ '/accepted-papers/' | relative_url }}) page, where papers are grouped by session.
+
+---
+
+**Q: I have a scheduling conflict with my assigned poster session. What should I do?**
+**A:** If you are unable to present during your assigned poster session (e.g., a conflict with another ICML session or talk), please email the organizers at [icml-structured-foundation-workshop@googlegroups.com](mailto:icml-structured-foundation-workshop@googlegroups.com) and we will do our best to accommodate a swap to the other session.
+
+---
+
 ## Reviewer Guidelines
 
 Reviewers should follow these guidelines when evaluating a paper. These guidelines are based on the [reviewer guidelines for TMLR](https://jmlr.org/tmlr/acceptance-criteria.html).
