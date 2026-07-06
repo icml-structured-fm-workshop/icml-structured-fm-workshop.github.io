@@ -2,4 +2,4 @@
 
 **ML Researcher**
 
-*Talk title TBD*
+*What LLMs Learn (and Don't) from Tables*
