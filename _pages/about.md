@@ -42,21 +42,34 @@ Please see the [Call for Papers](/call-for-papers/) for details.
 
 **July 11, 2026, 9:00-17:00, Coex Convention & Exhibition Center, Seoul, South Korea**
 
-The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight paper talks, and two poster sessions with contributed papers. You can find the tentative workshop schedule below:
+The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight paper talks, and two poster sessions with contributed papers. You can find the workshop schedule below:
 
 | Time          | Session |
 |---------------|---------|
 | 09:00 – 09:15 | <span style="color:#DDDDDD">Opening Remarks</span> |
-| 09:15 – 09:45 | <span style="color:#4A90E2">Invited Talk 1</span> |
-| 09:45 – 10:25 | <span style="color:#E67E22">Industry Spotlights (x4)</span> |
-| 10:25 – 11:05 | <span style="color:#9B59B6">Spotlight Papers (x4)</span> |
+| 09:15 – 09:45 | <span style="color:#4A90E2">Invited Talk: Multimodal Time-Series Foundation Models</span> |
+| 09:45 – 09:55 | <span style="color:#E67E22">Industry Spotlight: AWS — Chronos-2: From Univariate to Universal Forecasting</span> |
+| 09:55 – 10:05 | <span style="color:#E67E22">Industry Spotlight: SAP — The Idiosyncrasies of Enterprise Data – the SAP Experience</span> |
+| 10:05 – 10:15 | <span style="color:#E67E22">Industry Spotlight: Layer6 — TabDPT: Public Research and Enterprise Impact at TD</span> |
+| 10:15 – 10:25 | <span style="color:#E67E22">Industry Spotlight: Prior Labs — Moving from Tensors to Systems in Tabular Foundation Models</span> |
+| 10:25 – 10:35 | <span style="color:#9B59B6">Spotlight Paper: SurvivalPFN: Amortizing Survival Prediction via In-Context Bayesian Inference</span> |
+| 10:35 – 10:45 | <span style="color:#9B59B6">Spotlight Paper: HEPA: A Self-Supervised Horizon-Conditioned Event Predictive Architecture for Time Series</span> |
+| 10:45 – 10:55 | <span style="color:#9B59B6">Spotlight Paper: Foundations without Fundamentals: Zero-Shot Blind Spots in Time Series FMs</span> |
+| 10:55 – 11:05 | <span style="color:#9B59B6">Spotlight Paper: Dataset Inference for Data Provenance and Privacy Auditing in Tabular Foundation Models</span> |
 | 11:05 – 12:00 | <span style="color:#A8CF79">[Poster Session 1]({{ '/accepted-papers/#poster-session-1' | relative_url }})</span> |
 | 12:00 – 13:00 | <span style="color:#A01019">Lunch</span> |
-| 13:00 – 13:30 | <span style="color:#4A90E2">Invited Talk 2</span> |
-| 13:30 – 14:20 | <span style="color:#E67E22">Industry Spotlights (x5)</span> |
-| 14:20 – 15:00 | <span style="color:#9B59B6">Spotlight Papers (x4)</span> |
-| 15:00 – 15:30 | <span style="color:#4A90E2">Invited Talk 3</span> |
-| 15:30 – 15:45 | <span style="color:#DDDDDD">Awards & Closing Remarks</span> |
+| 13:00 – 13:30 | <span style="color:#4A90E2">Invited Talk: Scaling and Understanding Models for (Scientific) Tabular Data</span> |
+| 13:30 – 13:40 | <span style="color:#E67E22">Industry Spotlight: Nixtla — What Is a Good Forecast? Reflections on Accuracy, Architectures, and Incentives</span> |
+| 13:40 – 13:50 | <span style="color:#E67E22">Industry Spotlight: TimeCopilot — Agentic Forecasting: Scaling Time Series Foundation Models in Practice</span> |
+| 13:50 – 14:00 | <span style="color:#E67E22">Industry Spotlight: Fundamental — What LLMs Learn (and Don't) from Tables</span> |
+| 14:00 – 14:10 | <span style="color:#E67E22">Industry Spotlight: StableAI — Unleashing Structured-Data Modeling Capability for Generalist Intelligence</span> |
+| 14:10 – 14:20 | <span style="color:#E67E22">Industry Spotlight: Yandex — Tabular Deep Learning: an Industry Researcher's Perspective</span> |
+| 14:20 – 14:30 | <span style="color:#9B59B6">Spotlight Paper: Latent Instructions as Context Surrogates: Enhancing Frozen Time Series Forecasters with Instance-Adaptive Prompts</span> |
+| 14:30 – 14:40 | <span style="color:#9B59B6">Spotlight Paper: Images as Tables: In-Context Learning with TabPFN for Low-Data Detection of AI-Generated Images</span> |
+| 14:40 – 14:50 | <span style="color:#9B59B6">Spotlight Paper: Training Fair Tabular Foundation Models</span> |
+| 14:50 – 15:00 | <span style="color:#9B59B6">Spotlight Paper: Bounded Context Management for Tabular Foundation Models on Stream Learning</span> |
+| 15:00 – 15:30 | <span style="color:#4A90E2">Invited Talk: TabICLv2: Advancing Open Tabular Foundation Models</span> |
+| 15:30 – 15:45 | <span style="color:#DDDDDD">Best Paper Award & Closing Remarks</span> |
 | 15:45 – 17:00 | <span style="color:#A8CF79">[Poster Session 2]({{ '/accepted-papers/#poster-session-2' | relative_url }})</span> |
 
 
