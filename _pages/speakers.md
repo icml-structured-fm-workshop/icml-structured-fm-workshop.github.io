@@ -9,52 +9,66 @@ nav_order: 6
 profiles:
   - group: Keynote Speakers
     align: right
-    image: speakers/2026/david.jpg
-    content: speakers/david.md
-    image_circular: false
-    more_info: >  
-
-  - group: Keynote Speakers
-    align: left
     image: speakers/2026/abhimanyu.jpeg
     content: speakers/abhimanyu.md
     image_circular: false
     more_info: >
 
   - group: Keynote Speakers
-    align: right
+    align: left
     image: speakers/2026/katharina.png
     content: speakers/katharina.md
     image_circular: false
     more_info: >
 
+  - group: Keynote Speakers
+    align: right
+    image: speakers/2026/david.jpg
+    content: speakers/david.md
+    image_circular: false
+    more_info: >
+
 
 
   - group: Industry Spotlights
     align: right
-    image: speakers/2026/noah.png
-    content: speakers/noah.md
-    image_circular: false
-    more_info: >
-
-  - group: Industry Spotlights
-    align: left
     image: speakers/2026/oleksandr.webp
     content: speakers/oleksandr.md
     image_circular: false
     more_info: >
 
   - group: Industry Spotlights
-    align: right
+    align: left
     image: speakers/2026/sam.jpeg
     content: speakers/sam.md
     image_circular: false
     more_info: >
 
   - group: Industry Spotlights
+    align: right
+    image: speakers/2026/alex.jpeg
+    content: speakers/alex.md
+    image_circular: false
+    more_info: >
+
+  - group: Industry Spotlights
     align: left
-    image: speakers/2026/yury.jpeg
-    content: speakers/yury.md
+    image: speakers/2026/noah.png
+    content: speakers/noah.md
+    image_circular: false
+    more_info: >
+
+  - group: Industry Spotlights
+    align: right
+    image: speakers/2026/max_and_cristian.jpeg
+    content: speakers/max_cristian.md
+    image_circular: false
+    more_info: >
+
+  - group: Industry Spotlights
+    align: left
+    image: speakers/2026/azul_and_renee.jpeg
+    content: speakers/azul_renee.md
     image_circular: false
     more_info: >
 
@@ -74,22 +88,8 @@ profiles:
 
   - group: Industry Spotlights
     align: right
-    image: speakers/2026/alex.jpeg
-    content: speakers/alex.md
-    image_circular: false
-    more_info: >
-
-  - group: Industry Spotlights
-    align: left
-    image: speakers/2026/azul_and_renee.jpeg
-    content: speakers/azul_renee.md
-    image_circular: false
-    more_info: >
-
-  - group: Industry Spotlights
-    align: right
-    image: speakers/2026/max_and_cristian.jpeg
-    content: speakers/max_cristian.md
+    image: speakers/2026/yury.jpeg
+    content: speakers/yury.md
     image_circular: false
     more_info: >
 
