@@ -72,6 +72,8 @@ The workshop will consist of 3 invited talks, 9 industry spotlights, 8 spotlight
 | 15:30 – 15:45 | <span style="color:#DDDDDD">Best Paper Award & Closing Remarks</span> |
 | 15:45 – 17:00 | <span style="color:#A8CF79">[Poster Session 2]({{ '/accepted-papers/#poster-session-2' | relative_url }})</span> |
 
+Both poster sessions take place on boards **1202–1215, 1300–1315, and 1400–1407** in **Hall A** of COEX.
+
 The schedule is also available on the [ICML event page](https://icml.cc/virtual/2026/workshop/54066).
 
 <br>
